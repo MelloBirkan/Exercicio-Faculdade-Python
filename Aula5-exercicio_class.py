@@ -1,2 +1,0 @@
-roi = "oi"
-print(roi)
