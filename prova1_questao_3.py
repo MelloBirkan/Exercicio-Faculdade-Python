@@ -9,8 +9,6 @@ declaro que
 
 todas as respostas são fruto do meu próprio trabalho,
 não copiei respostas de colegas externos à equipe,
-não disponibilizei minhas respostas para colegas externos à equipe e
-não realizalizei quaisquer outras atividades desonestas para me beneficiar ou prejudicar outros.
 """
 # Todos os algoritmos base de ordenação usados, foram cedidos pelo professor.
 
